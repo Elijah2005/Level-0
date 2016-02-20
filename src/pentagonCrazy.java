@@ -21,7 +21,7 @@ e.penDown();
 		
 int sides =5;
 		// 5. Make a variable for the angle you want the robot to turn. Hint: you can divide in Java using "/". Can’t test until step 6.
-e.setAngle();
+e.setAngle(500);
 		// 7. Do steps #2 to #11, 200 times. When this is done you should see a pentagon.
 
 			 
