@@ -14,7 +14,7 @@ String adjective = JOptionPane.showInputDialog("Enter a adjective");
 		// Get the user to enter a type of liquid
 String Liquid = JOptionPane.showInputDialog("Enter a liquid");
 		// Get the user to enter a body part
-
+String Body = JOptionPane.showInputDialog("Enter a body part");
 		// Get the user to enter a verb
 
 		// Get the user to enter a place
