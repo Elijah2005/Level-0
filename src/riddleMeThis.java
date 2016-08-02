@@ -9,7 +9,8 @@ int number = 0;
 		// 3. Ask the user a riddle. Here are some ideas: bit.ly/the-riddler
 String a= JOptionPane.showInputDialog("You draw a line. Without touching it, how do you make the line longer");
 		// 4. If they got the answer right, pop up "correct!" and increase the score by one
-JOptionPane.showMessageDialog(null, "Correct"+ +number);
+JOptionPane.showMessageDialog(null, "Correct");
+number ++;
 		// 5. Otherwise, say "wrong" and tell them the answer
 
 		// 6. Add some more riddles
