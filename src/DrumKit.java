@@ -43,7 +43,7 @@ public class DrumKit extends MouseAdapter {
  drumLabelWithImage = createLabelImage("image.jpg");
    	 
    	 // 10. Add the image to the panel
-    
+    Elijah.add(drumLabelWithImage);
    	 // 11. Set the layout of the panel to "new GridLayout()"
     
    	 // 12. call the pack() method on the frame
